@@ -12,3 +12,4 @@ Built with SwiftUI (`MenuBarExtra`).
 Grab `NotesBar.zip` from the Releases page, unzip it and drag the app into Applications.
 The app isn't notarized, so the first time right-click it and choose **Open**.
 If macOS says it's "damaged", run `xattr -cr /Applications/NotesBar.app` in Terminal.
+Not new version needs fixing be aware
